@@ -34,6 +34,12 @@ input{
     border-radius:30px ;
     padding: 7px;
 }
-.button{
-    margin-top: 100px;
+button{
+    margin-top: 10px;
+    width: 70px;
+    height: 30px;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: rgb(32, 253, 3);
 }
